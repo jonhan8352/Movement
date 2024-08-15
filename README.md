@@ -33,6 +33,25 @@ Movement Labs is on a mission to create a global community of Move builders, wor
 7. C
 8. Moveus
 
+## Quiz: Are You Frens With Movewiffrens?
+1. B
+2. D
+3. A
+4. B
+5. D
+
+## Quiz: Decoding Movewiffrens
+1. B
+2. C
+3. B
+4. A
+5. C
+6. B
+7. C
+8. B
+9. C
+10. C
+
 
 > [!NOTE]
-> *Latest Updates: 24th June 2024*
+> *Latest Updates: 15th August 2024*
